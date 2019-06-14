@@ -15,11 +15,11 @@ Fri Jun 14 09:29:08 WIB 2019
 
   * TIM membuat surat pernyataan:
 
-    ** Berisi daftar anggota TIM: Nomor Urut (Ketua), NPM, Nama SIAK.
+    * Berisi daftar anggota TIM: Nomor Urut (Ketua), NPM, Nama SIAK.
   
-    ** Permintaan untuk mengubah nilai kuliah OS menjadi "I".
+    * Permintaan untuk mengubah nilai kuliah OS menjadi "I".
 
-    ** Memahami bahwa dalam jangka 1 bulan, sistem SIAK dapat mengubah secara otomatis nilai "I" secara "E".
+    * Memahami bahwa dalam jangka 1 bulan, sistem SIAK dapat mengubah secara otomatis nilai "I" secara "E".
 
   * TIM harus dibentuk serta mulai bekerja sebelum 27 Juni 2019.
 
