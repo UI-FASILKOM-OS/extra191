@@ -1,7 +1,7 @@
 ---
 ---
 
-Fri Jun 14 10:43:40 WIB 2019
+Fri Jun 14 10:52:44 WIB 2019
 ============================
 
 * Tugas EXTRA 2019-1 merupakan tugas bersama (TIM)!
@@ -9,7 +9,7 @@ Fri Jun 14 10:43:40 WIB 2019
 * Pembentukan TIM sepenuhnya diserahkan pada anggota TIM, dengan beberapa ketentuan:
 
   * Pemilihan ketua 1, ketua 2, ..., ketua N, sesuai konsensus. 
-    Apabila ketua X berhalangan, maka akan digantikan oleh ketua X-1, dan seterusnya. 
+    Apabila ketua X berhalangan, maka akan digantikan oleh ketua X+1, dan seterusnya. 
     Setiap TIM bermusyawarah, ketua bertugas menentukan keputusan akhir.
 
   * TIM membuat surat pernyataan:
