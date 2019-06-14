@@ -30,7 +30,9 @@ Fri Jun 14 10:43:40 WIB 2019
 
 * Tugas **menjelang** pertemuan pertama, masing-masing anggota TIM belajar sendiri:
 
-  * Jekyll, GitHub-Pages, dan LaTeX.
+  * Belajar konsep Jekyll, GitHub, dan GitHub-Pages.
+
+  * Membuat sebuah berkas kecil LaTeX.tex menjadi LaTeX.pdf.
 
   * Membuat "AKUN" GitHub.com (jika belum).
 
@@ -42,7 +44,17 @@ Fri Jun 14 10:43:40 WIB 2019
 
     * Membuat folder "SandBox/AKUN/"
 
- * **SETIAP HARI KERJA**, membuat berkas memo/log baru, umpamanya "SandBox/AKUN/2019-06-14-AKUN.md" berisi laporan harian.
+    * Membuat folder "SandBox/AKUN/LaTeX/"
+
+ * **SETIAP HARI KERJA**, membuat berkas memo/log/tugas baru, umpamanya "SandBox/AKUN/2019-06-14-AKUN.md" berisi laporan harian.
+
+* Bahan Diskusi Pertemuan Pertama TIM
+
+  * Jadwal pertemuan-pertemuan berikutnya
+
+  * Tugas Extra
+
+  * JUDUL 15 (Lima Belas) sub-topik (@10 menit) untuk Week00/Week01 kuliah.
 
 
 ============================
