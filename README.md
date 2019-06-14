@@ -1,6 +1,8 @@
 ## Extra OS 2019-1 (V002-20190614)
 
-- URL [https://extra191.vlsm.org/](https://extra191.vlsm.org/).
+- GitHub [https://github.com/UI-FASILKOM-OS/extra191](https://github.com/UI-FASILKOM-OS/extra191)
+
+- Web [https://extra191.vlsm.org/](https://extra191.vlsm.org/)
 
 
 ### Note
