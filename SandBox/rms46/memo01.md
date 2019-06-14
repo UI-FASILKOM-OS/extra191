@@ -1,7 +1,7 @@
 ---
 ---
 
-Fri Jun 14 09:29:08 WIB 2019
+Fri Jun 14 10:43:40 WIB 2019
 ============================
 
 * Tugas EXTRA 2019-1 merupakan tugas bersama (TIM)!
@@ -45,7 +45,6 @@ Fri Jun 14 09:29:08 WIB 2019
  * **SETIAP HARI KERJA**, membuat berkas memo/log baru, umpamanya "SandBox/AKUN/2019-06-14-AKUN.md" berisi laporan harian.
 
 
-
-
-
-
+============================
+Fri Jun 14 09:29:08 WIB 2019
+============================
