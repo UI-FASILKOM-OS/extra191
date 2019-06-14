@@ -4,9 +4,9 @@
 Fri Jun 14 10:52:44 WIB 2019
 ============================
 
-* Tugas EXTRA 2019-1 merupakan tugas bersama (TIM)!
+* Tugas EXTRA 2019-1 merupakan tugas bersama (**TIM**)!
 
-* Pembentukan TIM sepenuhnya diserahkan pada anggota TIM, dengan beberapa ketentuan:
+* Pembentukan TIM sepenuhnya diserahkan pada anggota, dengan beberapa ketentuan:
 
   * Pemilihan ketua 1, ketua 2, ..., ketua N, sesuai konsensus. 
     Apabila ketua X berhalangan, maka akan digantikan oleh ketua X+1, dan seterusnya. 
@@ -23,6 +23,10 @@ Fri Jun 14 10:52:44 WIB 2019
     * Bersedia untuk sungguh-sungguh melaksanakan tugas Extra hingga tuntas.
 
     * Tugas harus rampung sebelum 27 Juli 2019.
+
+    * Memahami hingga tugas EXTRA rampung, harus hadir pada beberapa pertemuan TIM.
+
+    * Memahami bahwa setiap anggota TIM, **SETIAP HARI KERJA** harus menulis laporan/log.
 
     * Memahami jika tugas tidak rampung, sistem SIAK mengubah secara otomatis nilai "I" menjadi "E".
 
@@ -46,7 +50,7 @@ Fri Jun 14 10:52:44 WIB 2019
 
     * Membuat folder "SandBox/AKUN/LaTeX/"
 
- * **SETIAP HARI KERJA**, membuat berkas memo/log/tugas baru, umpamanya "SandBox/AKUN/2019-06-14-AKUN.md" berisi laporan harian.
+    * Membuat berkas laporan/log harian bernama "SandBox/AKUN/2019-06-14-AKUN.md"
 
 * Bahan Diskusi Pertemuan Pertama TIM
 
