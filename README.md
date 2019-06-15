@@ -1,4 +1,4 @@
-## Extra OS 2019-1 (V005-20190614)
+## Extra OS 2019-1 (V006-20190615)
 
 - GitHub: [https://github.com/UI-FASILKOM-OS/extra191/](https://github.com/UI-FASILKOM-OS/extra191/)
 
@@ -8,6 +8,9 @@
 
 ### Catatan
 
-- **Tebal**.
-- _Miring_.
-- `Courier`.
+- Lihat juga:
+
+  - [https://github.com/SeedSider](https://github.com/SeedSider)
+
+
+
