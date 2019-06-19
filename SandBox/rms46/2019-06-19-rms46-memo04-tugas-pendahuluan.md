@@ -10,6 +10,8 @@ Wed Jun 19 15:55:59 WIB 2019
 
   * Membuat sebuah berkas kecil LaTeX.tex serta kompilasi berkas menjadi LaTeX.pdf.
 
+  * Secara teratur memantau "https://github.com/UI-FASILKOM-OS/extra191/tree/master/SandBox/rms46"
+
   * Membuat "AKUN" GitHub.com (jika belum).
 
   * Dengan "AKUN", membuat repositori Github.com bernama "extra191"
