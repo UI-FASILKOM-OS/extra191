@@ -14,7 +14,7 @@ Wed Jun 19 17:56:08 WIB 2019
 
     * "https://github.com/AKUN/extra191/"
  
-      * **SEGERA** mengirimkan nama AKUN membalas email operatingsystems@... dengan Subject: "akun github.com".
+      * **SEGERA** mengirimkan nama "AKUN" dengan membalas email operatingsystems@... dengan Subject: "akun github.com".
  
     * Membuat folder "SandBox/AKUN/"
 
