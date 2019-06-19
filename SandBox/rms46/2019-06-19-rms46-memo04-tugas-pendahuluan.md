@@ -20,7 +20,8 @@ Wed Jun 19 17:56:08 WIB 2019
 
     * Membuat folder "SandBox/AKUN/LaTeX/"
 
-      * Menampilkan sebuah berkas kecil LaTeX.tex serta hasil kompilasi LaTeX.pdf.
+      * Membuat sebuah berkas super-sederhana "LaTeX.tex" dengan nomor ketua anda (Ketua X).
+        dengan berkas hasil kompilasi "LaTeX.pdf". Lihat contoh dalam folder LaTeX ini.
 
     * Membuat berkas laporan/log harian dengan format "SandBox/AKUN/YYYY-MM-DD-AKUN.md"
       Membuat laporan kegiatan pendahuluan selama ini. Contoh nama berkas laporan "SandBox/rms46/2019-06-14-rms46.md"
