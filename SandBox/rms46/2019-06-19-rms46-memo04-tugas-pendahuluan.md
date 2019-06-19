@@ -8,8 +8,6 @@ Wed Jun 19 15:55:59 WIB 2019
 
   * Belajar konsep LaTeX, Jekyll, GitHub, dan GitHub-Pages.
 
-  * Membuat sebuah berkas kecil LaTeX.tex serta kompilasi berkas menjadi LaTeX.pdf.
-
   * Secara teratur memantau "https://github.com/UI-FASILKOM-OS/extra191/tree/master/SandBox/rms46"
 
   * Membuat "AKUN" GitHub.com (jika belum).
@@ -21,6 +19,8 @@ Wed Jun 19 15:55:59 WIB 2019
     * Membuat folder "SandBox/AKUN/"
 
     * Membuat folder "SandBox/AKUN/LaTeX/"
+
+      * Menampilkan sebuah berkas kecil LaTeX.tex serta hasil kompilasi LaTeX.pdf.
 
     * Membuat berkas laporan/log harian dengan format "SandBox/AKUN/YYYY-MM-DD-AKUN.md"
       Membuat laporan kegiatan pendahuluan selama ini. Contoh nama berkas laporan "SandBox/rms46/2019-06-14-rms46.md"
