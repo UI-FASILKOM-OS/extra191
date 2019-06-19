@@ -1,4 +1,4 @@
-## Extra OS 2019-1 (V009-20190619)
+## Extra OS 2019-1 (V010-20190619)
 
 - **Memo RMS**
 
@@ -13,7 +13,7 @@
   [https://extra191.vlsm.org/](https://extra191.vlsm.org/)
 
 
-### URLs
+### Links
 
 - **First LaTeX Document Tutorial** 
 
@@ -25,9 +25,9 @@
 
 - **GitHub**
 
-  - Ketua X [https://github.com/SeedSider/](https://github.com/SeedSider/)
+  - _Ketua X_ [https://github.com/SeedSider/](https://github.com/SeedSider/)
 
-  - Ketua X [https://github.com/arriski/extra191/](https://github.com/arriski/extra191/)
+  - _Ketua X_ [https://github.com/arriski/extra191/](https://github.com/arriski/extra191/)
 
-  - Ketua X [https://github.com/ihsanauliaa/extra191](https://github.com/ihsanauliaa/extra191)
+  - _Ketua X_ [https://github.com/ihsanauliaa/extra191](https://github.com/ihsanauliaa/extra191)
 
