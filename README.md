@@ -6,12 +6,16 @@
 
 - Web: [https://extra191.vlsm.org/](https://extra191.vlsm.org/)
 
-- Lihat juga: [https://extra182.vlsm.org/](https://extra182.vlsm.org/)
 
-### Catatan
+### URLs
 
-- Lihat juga:
+- First LaTeX Document Tutorial 
+  [https://www.latex-tutorial.com/tutorials/first-document/](https://www.latex-tutorial.com/tutorials/first-document/)
 
+- GitHub Pages dan Jekyll
+  [https://extra182.vlsm.org/](https://extra182.vlsm.org/)
+
+- GitHub:
   - [https://github.com/SeedSider](https://github.com/SeedSider)
 
 
