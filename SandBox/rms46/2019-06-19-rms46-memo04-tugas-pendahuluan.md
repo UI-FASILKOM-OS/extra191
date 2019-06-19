@@ -1,7 +1,7 @@
 ---
 ---
 
-Wed Jun 19 16:23:28 WIB 2019
+Wed Jun 19 17:56:08 WIB 2019
 ============================
 
 * Tugas **menjelang** pertemuan pertama, masing-masing anggota TIM belajar sendiri:
@@ -13,6 +13,8 @@ Wed Jun 19 16:23:28 WIB 2019
   * Dengan "AKUN", membuat repositori Github.com bernama "extra191"
 
     * "https://github.com/AKUN/extra191/"
+ 
+      * **SEGERA** mengirimkan nama AKUN membalas email operatingsystems@... dengan Subject: "akun github.com".
  
     * Membuat folder "SandBox/AKUN/"
 
@@ -32,6 +34,8 @@ Wed Jun 19 16:23:28 WIB 2019
 ============================
 
 Wed Jun 19 15:55:59 WIB 2019
+
+Wed Jun 19 16:23:28 WIB 2019
 
 ============================
 
