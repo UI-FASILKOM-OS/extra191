@@ -1,14 +1,12 @@
 ---
 ---
 
-Wed Jun 19 15:55:59 WIB 2019
+Wed Jun 19 16:23:28 WIB 2019
 ============================
 
 * Tugas **menjelang** pertemuan pertama, masing-masing anggota TIM belajar sendiri:
 
-  * Belajar konsep LaTeX, Jekyll, GitHub, dan GitHub-Pages.
-
-  * Secara teratur memantau "https://github.com/UI-FASILKOM-OS/extra191/tree/master/SandBox/rms46"
+  * Konsep LaTeX, Jekyll, GitHub, dan GitHub-Pages.
 
   * Membuat "AKUN" GitHub.com (jika belum).
 
@@ -28,6 +26,8 @@ Wed Jun 19 15:55:59 WIB 2019
   * Membuat GitHub-Page bernama:  "https://AKUN.github.io/extra191/"
 
     * Membuat/mengubah berkas "README.md" sesuai selera masing-masing.
+
+  * Secara teratur memantau "https://github.com/UI-FASILKOM-OS/extra191/tree/master/SandBox/rms46"
 
 ============================
 
