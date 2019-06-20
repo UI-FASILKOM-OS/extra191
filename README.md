@@ -1,8 +1,8 @@
-## Extra OS 2019-1 (V011-20190620)
+## Extra OS 2019-1 (V012-20190620)
 
 - **Memo RMS**
 
-  [https://github.com/UI-FASILKOM-OS/extra191/tree/master/SandBox/rms46](https://github.com/UI-FASILKOM-OS/extra191/tree/master/SandBox/rms46)
+  [https://github.com/UI-FASILKOM-OS/extra191/tree/master/SandBox/rms46/](https://github.com/UI-FASILKOM-OS/extra191/tree/master/SandBox/rms46/)
 
 - **GitHub**
 
