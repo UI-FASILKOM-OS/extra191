@@ -1,11 +1,13 @@
 ---
 ---
 
-Thu Jun 20 11:15:26 +07 2019
+Thu Jun 20 13:12:35 WIB 2019
 ============================
 
-* TIM bertemu di ruang 3207 jam 13:00.
+* Sekarang sudah jam 13:13.
+  Seharusnya TIM bertemu di ruang 3207 jam 13:00.
   Jika banyak yang hadir, pindah dari 3207 ke gedung B, lantai 4, ruang 2401.
+  Bagaimana ini?
 
 * TIM menyerahkan surat pernyataan tersebut pada pertemuan pertama.
 
