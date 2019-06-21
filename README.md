@@ -27,7 +27,8 @@
     [(SandBox)](
      https://github.com/zeeblader/extra191/tree/master/SandBox/zeeblader/)
 
-  - **404** Ketua 3
+  - [Ketua 3](
+     https://edwardpartogi.github.io/extra191/)
     [(SandBox)](
      https://github.com/edwardpartogi/extra191/tree/master/SandBox/edwardpartogi/)
 
