@@ -1,65 +1,48 @@
 # [Links](https://extra191.vlsm.org)
 
-- **Memo RMS**
+- [Memo RMS](
+   https://github.com/UI-FASILKOM-OS/extra191/tree/master/SandBox/rms46/)
 
-  [https://github.com/UI-FASILKOM-OS/extra191/tree/master/SandBox/rms46/](https://github.com/UI-FASILKOM-OS/extra191/tree/master/SandBox/rms46/)
+- [GitHub](
+   https://github.com/UI-FASILKOM-OS/extra191/)
 
-- **GitHub**
+- [GitHub Page](
+   https://extra191.vlsm.org/)
 
-  [https://github.com/UI-FASILKOM-OS/extra191/](https://github.com/UI-FASILKOM-OS/extra191/)
+- [First LaTeX Document Tutorial](
+   https://www.latex-tutorial.com/tutorials/first-document/)
 
-- **GitHub Page**
+- [GitHub Pages dan Jekyll](
+   https://extra182.vlsm.org/)
 
-  [https://extra191.vlsm.org/](https://extra191.vlsm.org/)
+- **TIM**
 
-- **First LaTeX Document Tutorial** 
-
-  [https://www.latex-tutorial.com/tutorials/first-document/](https://www.latex-tutorial.com/tutorials/first-document/)
-
-- **GitHub Pages dan Jekyll**
-
-  [https://extra182.vlsm.org/](https://extra182.vlsm.org/)
-
-- **GitHub**
-
-  - _Ketua 1_ 
-    [https://SeedSider.github.io/extra191/](
+  - [Ketua 1](
      https://SeedSider.github.io/extra191/)
-
-    [https://github.com/SeedSider/extra191/tree/master/SandBox/SeedSider/](
+    [(SandBox)](
      https://github.com/SeedSider/extra191/tree/master/SandBox/SeedSider/)
 
-  - _Ketua 2_ 
-    [https://zeeblader.github.io/extra191/](
+  - [Ketua 2](
      https://zeeblader.github.io/extra191/)
-
-    [https://github.com/zeeblader/extra191/tree/master/SandBox/zeeblader/](
+    [(SandBox)](
      https://github.com/zeeblader/extra191/tree/master/SandBox/zeeblader/)
 
-  - _Ketua X_ 
-    [https://arriski.github.io/extra191/](
-     https://arriski.github.io/extra191/)
-
-    [https://github.com/arriski/extra191/](
-     https://github.com/arriski/extra191/)
-
-  - _Ketua X_ 
-    **404?**
-
-    [https://github.com/ihsanauliaa/extra191/](
-     https://github.com/ihsanauliaa/extra191/)
-
-  - _Ketua X_ 
-    **404?**
-
-    [https://github.com/edwardpartogi/extra191/](
-     https://github.com/edwardpartogi/extra191/)
-
-  - _Ketua X_ 
-    [https://andriansyahp.github.io/extra191/](
+  - [Ketua 5](
      https://andriansyahp.github.io/extra191/)
-
-    [https://github.com/andriansyahp/extra191/tree/master/SandBox/andriansyahp/](
+    [(SandBox)](
      https://github.com/andriansyahp/extra191/tree/master/SandBox/andriansyahp/)
 
+  - [Ketua 6](
+     https://arriski.github.io/extra191/)
+    [(SandBox)](
+     https://github.com/arriski/extra191/tree/master/SandBox/arriski/)
+
+  - [Ketua ?](
+     https://ihsanauliaa.github.io/extra191/)
+    [(SandBox)](
+     https://github.com/ihsanauliaa/extra191/tree/master/SandBox/ihsanauliaa/)
+
+  - **404** Ketua ?
+    [(SandBox??)](
+     https://github.com/edwardpartogi/extra191/)
 
