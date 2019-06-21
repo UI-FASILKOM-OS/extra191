@@ -1,4 +1,4 @@
-## Extra OS 2019-1 (V012-20190620)
+# Links
 
 - **Memo RMS**
 
@@ -11,9 +11,6 @@
 - **GitHub Page**
 
   [https://extra191.vlsm.org/](https://extra191.vlsm.org/)
-
-
-### Links
 
 - **First LaTeX Document Tutorial** 
 

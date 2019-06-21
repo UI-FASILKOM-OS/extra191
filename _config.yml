@@ -1,1 +1,12 @@
+title: Extra OS 2019-1
+description: (V013-20190621) Proyek extra kuliah Sistem Operasi 2019-1
+show_downloads: true
+google_analytics:
+
 theme: jekyll-theme-minimal
+# theme: jekyll-theme-hacker
+# theme: jekyll-theme-midnight
+
+# Fixing the "No GitHub API authentication could be found" ??
+github: [metadata]
+
