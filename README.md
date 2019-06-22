@@ -4,7 +4,7 @@
    https://github.com/UI-FASILKOM-OS/extra191/tree/master/SandBox/rms46/)
 
    - [LAST MEMO](
-      https://github.com/UI-FASILKOM-OS/extra191/blob/master/SandBox/rms46/2019-06-21-rms46-memo09-UPDATE.md
+      https://github.com/UI-FASILKOM-OS/extra191/blob/master/SandBox/rms46/0-LAST.md
      )
 
 - [GitHub](
