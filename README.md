@@ -32,21 +32,16 @@
      https://github.com/zeeblader/extra191/tree/master/SandBox/zeeblader/)
 
   - [Ketua 3](
-     https://edwardpartogi.github.io/extra191/)
-    [(SandBox)](
-     https://github.com/edwardpartogi/extra191/tree/master/SandBox/edwardpartogi/)
-
-  - [Ketua 4](
      https://ihsanauliaa.github.io/extra191/)
     [(SandBox)](
      https://github.com/ihsanauliaa/extra191/tree/master/SandBox/ihsanauliaa/)
 
-  - [Ketua 5](
+  - [Ketua 4](
      https://andriansyahp.github.io/extra191/)
     [(SandBox)](
      https://github.com/andriansyahp/extra191/tree/master/SandBox/andriansyahp/)
 
-  - [Ketua 6](
+  - [Ketua 5](
      https://arriski.github.io/extra191/)
     [(SandBox)](
      https://github.com/arriski/extra191/tree/master/SandBox/arriski/)
