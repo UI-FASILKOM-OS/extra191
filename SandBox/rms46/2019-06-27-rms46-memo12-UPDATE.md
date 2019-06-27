@@ -1,8 +1,8 @@
 ---
 ---
 
-Thu Jun 27 14:00:26 WIB 2019
-============================
+Thu Jun 27 18:54:01 WIB 2019
+============================ UPDATE
 
 * Silakan lihat/pelajari How to Create and Launch a Website from Start to Finish
   https://startbootstrap.com/guides/how-to-create-a-website-with-github-pages/
