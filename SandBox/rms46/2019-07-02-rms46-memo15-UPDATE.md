@@ -2,7 +2,7 @@
 ---
 
 Tue Jul  2 14:59:08 WIB 2019
-============================ 
+============================ UPDATE
 
 * @Ketua1: tolong setup colaborators GitHub 
    https://github.com/UI-FASILKOM-OS/extra191/invitations
@@ -11,7 +11,7 @@ Tue Jul  2 14:59:08 WIB 2019
 
 ==============================================
 
-* Pertemuan Berikut: Selasa, 2 Juli 2019 13:00
+* Pertemuan Berikut: Selasa, 9 Juli 2019 13:00
 
 * LOG BUTIR HUKUMAN:
   * Ketua1: 0
