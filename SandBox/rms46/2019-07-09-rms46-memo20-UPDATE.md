@@ -2,17 +2,12 @@
 layout: default
 ---
 
-Tue Jul  9 08:28:29 WIB 2019
-============================ 
+Tue Jul  9 13:51:52 WIB 2019
+============================  UPDATE
 
+* Pertemuan Berikut: Selasa, 16 Juli 2019 13:00.
 
-
-
-
-
-* Pertemuan Berikut: Selasa, 9 Juli 2019 13:00.
-
-  Acara:
+* Pertemuan: Selasa, 9 Juli 2019 13:00.
   * Kemajuan TIM
     * Yang sudah rampung.
     * Rencana kapan akan selesai.
@@ -33,13 +28,12 @@ Tue Jul  9 08:28:29 WIB 2019
     * **JANGAN** membuat link yang cepat kadaluarsa! Contoh, download app-versi-01.exe; sebab minggu depan mungkin sudah ganti nama menjadi app-versi-02.exe.
 
 ==============================================
-  * Kabar Ketua2?
 
 * LOG BUTIR HUKUMAN:
   * Ketua1: 0
-  * Ketua2: 1
+  * Ketua2: 2
   * Ketua3: 0
-  * Ketua4: 0
+  * Ketua4: 1
   * Ketua5: 0
 
 <hr>
