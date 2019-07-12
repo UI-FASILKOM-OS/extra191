@@ -5,15 +5,15 @@ Fri Jul 12 17:04:38 WIB 2019
 
 0. Week 00:
 
-  a. Operating Systems Definition
+   a. Operating Systems Definition
 
-  b. Computer Organization Review: Base-2-8-10-16, Interupt, CPU kernel/user mode, BUS, device controller
+   b. Computer Organization Review: Base-2-8-10-16, Interupt, CPU kernel/user mode, BUS, device controller
 
-  c. OS: Design, Resource Management, Services, Functions, and Interface.
+   c. OS: Design, Resource Management, Services, Functions, and Interface.
 
 1. Week 01:
 
-d) Command lines, Scripting, REGEX, and C language
+   d. Command lines, Scripting, REGEX, and C language
 
 e) Mobile Operating System
 
