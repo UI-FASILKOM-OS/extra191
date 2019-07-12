@@ -1,0 +1,65 @@
+---
+---
+Fri Jul 12 17:04:38 WIB 2019
+============================
+
+Week 00:
+
+a) Operating Systems Definition
+
+b) Computer Organization Review: Base-2-8-10-16, Interupt, CPU kernel/user mode, BUS, device controller
+
+c) OS: Design, Resource Management, Services, Functions, and Interface.
+
+Week 01:
+
+d) Command lines, Scripting, REGEX, and C language
+
+e) Mobile Operating System
+
+f) Real Time, PTP, Client Servier, Virtualization and Cloud Services
+
+g) Security, Protection, Privilege, Privacy, and Intelectual Property
+
+Week 02:
+
+h) File System and FUSE
+
+i) Addressing, Shared Lib, and Pointer
+
+j) Virtual Memory
+
+k) Concurency: Processes and Threads
+
+l) Synchronization and Deadlock
+
+m) Scheduling
+
+n) Storage Structure, Firmware, Bootloader, and Systemd
+
+o) I/O Devices, Drivers, and I/O Programming
+
+Week 03-10:
+
+03) File System and FUSE
+
+04) Addressing, Binding, Shared Memory, and Pointer
+
+05) Virtual Memory
+
+(UTS) =================================
+
+06) Concurency: Processes and Threads
+
+07) Synchronization and Deadlock
+
+08) Scheduling
+
+09) Storage Structure, Firmware, Bootloader, and Systemd
+
+10) I/O Devices, Drivers, and I/O Programming
+
+(UAS) =================================
+
+============================
+Fri Jul 12 17:04:38 WIB 2019
