@@ -25,7 +25,7 @@ Fri Jul 12 17:40:28 WIB 2019
 
    h. File System and FUSE
 
-   i. Addressing, Shared Lib, and Pointer
+   i. Addressing, Binding, Libraries, Shared Memory, and Pointer
 
    j. Virtual Memory
 
