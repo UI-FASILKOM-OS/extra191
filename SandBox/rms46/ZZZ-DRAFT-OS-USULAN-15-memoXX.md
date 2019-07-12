@@ -3,9 +3,9 @@
 Fri Jul 12 17:04:38 WIB 2019
 ============================
 
-- Week 00:
+* Week 00:
 
-a) Operating Systems Definition
+  * Operating Systems Definition
 
 b) Computer Organization Review: Base-2-8-10-16, Interupt, CPU kernel/user mode, BUS, device controller
 
@@ -64,4 +64,5 @@ o) I/O Devices, Drivers, and I/O Programming
 - (UAS) =================================
 
 ============================
+
 Fri Jul 12 17:04:38 WIB 2019
