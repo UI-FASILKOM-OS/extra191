@@ -1,0 +1,4 @@
+# Senin, 15 Juli 2019
+Hari ini, berdasarkan diskusi tim kami memutuskan untuk mulai mem-*push* versi awal dari *prototype* dari *starter pack*. Sejauh ini, tema yang disepakati adalah yang mengimplementasikan tema dari StartBootstrap yang telah dimodifikasi. Konten dan tema yang ditambahkan masih merupakan pemindahan dari *repository* [https://github.com/andriansyahp/extra191](https://github.com/andriansyahp/extra191). Untuk selanjutnya, akan dilakukan pengorganisasian konten sebagai isi dari *starter pack* yang telah dibuat oleh seluruh anggota tim. Segala bentuk pandangan, kritik serta saran baik terkait konten maupun tema yang digunakan secara keseluruhan akan sangat membantu demi terselesaikannya *starter pack* yang berguna bagi peserta kuliah Sistem Operasi selanjutnya.  
+
+*Starter pack* versi `V001-20190715 andriansyahp` bisa dilihat di [https://extra191.vlsm.org/](https://extra191.vlsm.org/).
