@@ -2,8 +2,8 @@
 layout: default
 ---
 
-Mon Jul 15 21:07:15 WIB 2019
-============================  
+Mon Jul 15 21:10:59 WIB 2019
+============================  UPDATE
 
 * Pertemuan Berikut: Selasa, 16 Juli 2019 13:00.
   * Kemajuan TIM
