@@ -52,8 +52,8 @@
   <!-- Header -->
   <header class="masthead d-flex">
     <div class="container text-center my-auto rounded-lg shadow-lg p-4">
-      <h1 class="mb-1 text-white">EXTRA191</h1>
-      <h5 class="text-primary"> (Version: V001-20190715 andriansyahp)</h2>
+      <h1 class="mb-1 text-white">{{ site.title | default: site.github.repository_name }}</h1>
+      <h2 class="text-primary">{{ site.description | default: site.github.project_tagline }}</h2>
       <h3 class="mb-5">
         <em class = "text-secondary">A starter pack to help the student taking Operating Systems class.</em>
       </h3>
