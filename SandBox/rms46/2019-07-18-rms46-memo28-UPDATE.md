@@ -2,10 +2,10 @@
 layout: default
 ---
 
-Wed Jul 17 13:09:07 WIB 2019
+Thu Jul 18 13:53:42 +07 2019
 ============================ 
 
-* Pertemuan Berikut: Kamis, 18 Juli 2019 13:00.
+* Pertemuan Berikut: Selasa, 23 Juli 2019 13:00.
   * Kemajuan TIM
     * Produk akhir (TIM): Yang Sudah/Sedang/Rencana.
     * Harap menjabarkan produk satu per satu dengan URL-nya
@@ -32,11 +32,6 @@ Wed Jul 17 13:09:07 WIB 2019
     [(SandBox)](
      https://github.com/SeedSider/extra191/tree/master/SandBox/SeedSider/)
 
-  - [Ketua 2](
-     https://zeeblader.github.io/extra191/)
-    [(SandBox)](
-     https://github.com/zeeblader/extra191/tree/master/SandBox/zeeblader/)
-
   - [Ketua 3](
      https://ihsanauliaa.github.io/extra191/)
     [(SandBox)](
@@ -53,7 +48,7 @@ Wed Jul 17 13:09:07 WIB 2019
      https://github.com/arriski/extra191/tree/master/SandBox/arriski/)
 
 
-Wed Jul 17 13:09:07 WIB 2019
+Thu Jul 18 13:53:42 +07 2019
 
 ============================
 
