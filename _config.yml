@@ -1,5 +1,11 @@
 title: Extra OS 2019-1
+<<<<<<< HEAD
 description: (V043-20190716 rms46) Proyek extra kuliah Sistem Operasi 2019-1
+||||||| merged common ancestors
+description: (V042-20190716 rms46) Proyek extra kuliah Sistem Operasi 2019-1
+=======
+description: (V044-20190718 rms46) Proyek extra kuliah Sistem Operasi 2019-1
+>>>>>>> 2643656fe212fb1ea64a06baad66db3bfd288ec7
 # show_downloads: true
 google_analytics:
 
