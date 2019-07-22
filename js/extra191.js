@@ -16,7 +16,7 @@
       target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
       if (target.length) {
         $('html, body').animate({
-          scrollTop: target.offset().top
+          scrollTop: target.offset().top-50
         }, 1000, "easeInOutExpo");
         return false;
       }
@@ -42,23 +42,30 @@
 
 })(jQuery); // End of use strict
 
-// Disable Google Maps scrolling
-// See http://stackoverflow.com/a/25904582/1607849
-// Disable scroll zooming and bind back the click event
-var onMapMouseleaveHandler = function(event) {
-  var that = $(this);
-  that.on('click', onMapClickHandler);
-  that.off('mouseleave', onMapMouseleaveHandler);
-  that.find('iframe').css("pointer-events", "none");
-}
-var onMapClickHandler = function(event) {
-  var that = $(this);
-  // Disable the click handler until the user leaves the map area
-  that.off('click', onMapClickHandler);
-  // Enable scrolling zoom
-  that.find('iframe').css("pointer-events", "auto");
-  // Handle the mouse leave event
-  that.on('mouseleave', onMapMouseleaveHandler);
-}
-// Enable map zooming with mouse scroll when the user clicks the map
-$('.map').on('click', onMapClickHandler);
+$('.collapse').on('shown.bs.collapse', function (e) {
+  if ($(this).data('noscroll')!=1){
+	var $card = $(this).closest('.card');
+	$('html,body').animate({
+		scrollTop: $card.offset().top-50
+	}, 500);
+  }
+  // reset noscroll data
+  $(this).data('noscroll',0);
+});
+
+$(document).ready(function(){
+  var hexValues = ["0","1","2","3","4","5","6","7","8","9","a","b","c","d","e"];  
+  function populate(a) {
+    for ( var i = 0; i < 6; i++ ) {
+      var x = Math.round( Math.random() * 14 );
+      var y = hexValues[x];
+      a += y;
+    }
+    return a;
+  }  
+  var newColor1 = populate('#');
+  var newColor2 = populate('#');
+  var angle = Math.round( Math.random() * 360 );  
+  var gradient = "linear-gradient(" + angle + "deg, " + newColor1 + ", " + newColor2 + ")";  
+  $('.masthead').css({'background': '' + gradient});
+});

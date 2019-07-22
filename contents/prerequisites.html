@@ -1,0 +1,114 @@
+---
+title: "PREREQUISITES"
+description: "Program yang perlu dipersiapkan untuk mengikuti perkuliahan."
+layout: default
+permalink: /contents/prerequisites/
+categories: content
+path: "https://andriansyahp.github.io/extra191/contents/prerequisites"
+---
+
+<!-- Prerequisites -->
+<section class="content-section bg-alternative">
+    <div class="container rounded-lg shadow-lg p-4">
+        <div class="content-section-heading text-center">
+            <h3 class="text-secondary mb-0" id="prerequisites">Prerequisites</h3>
+            <h2 class="mb-5 text-white">Program yang perlu dipersiapkan untuk mengikuti perkuliahan.</h2>
+        </div>
+        <div class="bs-example">
+            <div class="accordion text-white" id="accordionOne">
+                <div class="card bg-secondary">
+                    <div class="card-header text-center" id="headingOne">
+                        <h2 class="mb-0">
+                            <button type="button" class="btn btn-dark collapsed text-white" data-toggle="collapse" data-target="#collapseOne">Windows 10 (1804)</button>									
+                        </h2>
+                    </div>
+                    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionOne">
+                        <div class="card-body">
+                            <div class="container">
+                                <ul>
+                                    <li>
+                                        <p>Catatan: fitur SSH di Windows 10 hanya tersedia untuk Windows 10 dengan <em>build number</em> di atas 1804, untuk cek versi Windows 10, cari ‘run’ di <em>search bar</em> dan ketik ‘winver’ untuk melihat versi Windows 10 yang telah terpasang.</p>                                
+                                        <p><img width="80%" src="https://lh5.googleusercontent.com/2Baq_iqBUKl4vpH72U296TuSeNghq5HLqQ-e7MZSktW3bV-lj-kroKaVTFTW9wsxb0ZAKUn0kxFj6t_jz_rIbGxMuns2KjvSxrsPq203AqaPsaCg4vGwnAqgkKobGldqMSoSZHRb" alt="img" /></p>                                
+                                        <p><img src="https://lh5.googleusercontent.com/rwyoF9QT37_tzw5JUb5fQu7qTPc703WqsQmVvIERjr2KYFAiuOrUp7qoxBko5NYKlrOsnJBkxmrEjnHai0EGc6nvJ79_WrfFwmE7Y1o2FgnBNXbh0JAQ7MkFO2BSPigQX_5nb0jO" alt="img" /></p>                                
+                                        <p><img src="https://lh4.googleusercontent.com/Q_snV1YvqDwrxnaWqYGiSE159RxHwTVD3oGB3eSu-5DH4menlFSJMVkeLbTfiG8u2qe13fHVo0cAlmwb6KCQ77YXM2-zk-DkImthtgXX3wIhaiWIWG_S5WVUu7M4H5gEjAFIMFpT" alt="img" /></p>
+                                    </li>
+                                    <li>
+                                        <p>Jika versi Windows Anda merupakan versi 1804 atau di atasnya, Anda dapat menggunakan ‘Powershell’ atau ‘CMD’, yang dapat dicari melalui <em>search bar</em>.</p>                                
+                                        <p><img width="80%" src="https://lh4.googleusercontent.com/NADFcz5z20mkIazaqoWFfkqLoQOWctwrsnytdso-E_ZyMwG9alQBsEQYyJ8Xgwr27qhXzAuoOJ9cxrQQl9tnR4daXtl8GvrR_JSo76wY9Qq39dCnQNDXWWqH6voxgoQnFDqepgy1" alt="img" /></p>
+                                    </li>
+                                </ul>                                   
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card bg-secondary">
+                    <div class="card-header text-center" id="headingTwo">
+                        <h2 class="mb-0">
+                            <button type="button" class="btn btn-dark collapsed text-white" data-toggle="collapse" data-target="#collapseTwo">Windows 7/8/10 (versi di bawah 1804)</button>
+                        </h2>
+                    </div>
+                    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionOne">
+                        <div class="card-body">
+                            <ul>
+                                <li>
+                                    <p>Catatan: Perintah SSH belum tersedia untuk Windows di bawah versi Windows 10 1804. Untuk mengatasinya, SSH dapat diakses dengan <em>client</em> SSH seperti <a class = "text-secondary" href="https://www.putty.org/">PuTTY</a>.</p>
+                                </li>                              
+                                <li>
+                                    <p>Mengunduh PuTTY</p>
+                                    <p>Untuk mengunduh PuTTY dapat diakses melalui link berikut:<a class = "text-secondary" href="https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html">https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html</a>,
+                                    dan cari versi terbaru yang dapat dilihat di bagian 'Package files' di halaman tersebut, seperti yang ditandai dengan kotak biru pada di gambar berikut ini.</p>
+                                    <img class="img-fluid" src="{{ site.baseurl }}/img/pre-putty-page.png" alt="'Package files' part of the page.">
+                                    <p>Pastikan <em>download</em> sesuai Windows Anda (32-bit atau 64-bit). Untuk mengecek jenis Windows yang Anda gunakan, dapat melakukan hal berikut:</p>
+                                    <ol>
+                                        <li>
+                                            Klik tombol start / windows dipojok kiri bawah dan buka kolom run <strong>[Windows key + r]</strong>
+                                        </li>
+                                        <li>
+                                            Ketik <strong>dxdiag</strong> lalu tekan enter dan akan terlihat seperti gambar dibawah
+                                            <p><img src="https://user-images.githubusercontent.com/51958728/60397929-bf585d00-9b7c-11e9-817a-fe91125c6295.png" alt="Screenshot_249" /></p></li>
+                                        </li>                       
+                                    </ol>
+                                </li>                              
+                                <li>
+                                    <p>Meng-<em>install</em> PuTTY</p>
+                                    <ul>
+                                        <li><p>Setelah download selesai, buka folder dan klik <strong>Run</strong></p>
+                                            <img src="https://user-images.githubusercontent.com/51958728/60398272-a0f46080-9b80-11e9-9118-89018e517c01.png" alt="Screenshot_250" />
+                                        </li>                                
+                                        <li><p>Pilih lokasi instalasi sesuai yang diinginkan</p>                                
+                                            <img src="https://user-images.githubusercontent.com/51958728/60398304-e6b12900-9b80-11e9-887b-ef67967ea4e2.png" alt="Screenshot_251" />
+                                        </li>                                
+                                        <li><p>Dan klik Install</p>                                
+                                            <img src="https://user-images.githubusercontent.com/51958728/60398309-fdf01680-9b80-11e9-8d1e-43dd1efcf54b.png" alt="Screenshot_252" />
+                                        </li>                                
+                                        <li><p>Setelah instalasi selesai, putty siap digunakan</p>                                
+                                            <img src="https://user-images.githubusercontent.com/51958728/60398361-2d9f1e80-9b81-11e9-93eb-6bfdd027bf21.png" alt="Screenshot_254" />
+                                        </li>
+                                    </ul>
+                                </li>                               
+                            </ul>                            
+                        </div>
+                    </div>
+                </div><div class="card bg-secondary">
+                    <div class="card-header text-center" id="headingThree">
+                        <h2 class="mb-0">
+                            <button type="button" class="btn btn-dark collapsed text-white" data-toggle="collapse" data-target="#collapseThree">Linux/MacOS</button>
+                        </h2>
+                    </div>
+                    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionOne">
+                        <div class="card-body">
+                            <ul>
+                                <li>
+                                    <p>Untuk Linux, dapat menggunakan program terminal pilihan seperti Gnome Terminal, Konsole, Tilix, dll</p>
+                                </li>                              
+                                <li>
+                                    <p>Untuk macOS, cukup gunakan program terminal bawaan dengan membukanya melalui <i>Application List</i> atau mencarinya dengan menggunakan Spotlight Search</p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
