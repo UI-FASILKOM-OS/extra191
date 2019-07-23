@@ -2,8 +2,8 @@
 layout: default
 ---
 
-Tue Jul 23 18:44:42 WIB 2019
-============================ 
+Tue Jul 23 18:55:50 WIB 2019
+============================ UPDATE
 
 * Pertemuan Berikut: Kamis, 25 Juli 2019 13:00.
   * Kemajuan TIM
@@ -16,6 +16,8 @@ Tue Jul 23 18:44:42 WIB 2019
   * Extra Hotlink? 
   * Disqus
   * Setiap anggota TIM agar **MELENGKAPI**  GitHub page masing-masing!
+  * External Links: apakah berfungsi semua?
+  * 15 topik
 
 <hr>
 
