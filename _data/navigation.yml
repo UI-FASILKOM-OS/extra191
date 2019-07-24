@@ -1,0 +1,26 @@
+- title: Home
+  url: /
+- title: Tutorials
+  url: /tutorials/
+  sublinks:
+    - title: Notes Guide
+      url: /tutorials/notes-guide/
+    - title: separator
+    - title: Extra and C-2C Points
+      url: /tutorials/extra-c2c/
+    - title: separator
+    - title: PuTTY on Windows
+      url: /tutorials/putty-on-windows/
+    - title: separator
+    - title: Badak Guide
+      url: /tutorials/badak-guide/
+    - title: separator
+    - title: Shell Basic Command
+      url: /tutorials/shell-basic/
+    - title: separator
+    - title: Demo on Badak
+      url: /tutorials/demo-badak/
+- title: About
+  url: /about/
+- title: Team
+  url: /team/
