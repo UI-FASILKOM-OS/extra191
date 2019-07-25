@@ -65,18 +65,21 @@ path: "https://extra191.vlsm.org/contents/chapters-topics"
                     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionOne">
                         <div class="card-body">
                             <p>
-                                <STRONG>Design</STRONG> dalam hal ini mengacu pada bagaimana OS dibuat sesuai dengan tujuannya. Seperti yang telah dijelaskan pada definisi OS, tujuan dari OS bisa berbeda tergantung dari sudut pandangnya. Design OS akan bergantung dari tujuannya tersebut, yang bisa dibagi menjadi <i>user goals</i> dan <i>system goals</i>. <br>(Baca: <Strong>Chapter 2 Section 2.7 Buku/Slide Operating System Concepts Silberschatz</Strong>)
+                                <STRONG>Design</STRONG> dalam hal ini mengacu pada bagaimana OS dibuat sesuai dengan tujuannya. Seperti yang telah dijelaskan pada definisi OS, tujuan dari OS bisa berbeda tergantung dari sudut pandangnya. Design OS akan bergantung dari tujuannya tersebut, yang bisa dibagi menjadi <i>user goals</i> dan <i>system goals</i>. 
+                                <br>(Baca lebih lanjut <Strong>Chapter 2 Section 2.7 Buku/Slide Operating System Concepts Silberschatz</Strong>)
                             </p>
                             <p>
-                            	<STRONG>Resource Management</STRONG> berkaitan dengan tugas <STRONG>Operating System</STRONG> sebagai <Strong><i>resource manager</i></Strong>. Hal-hal yang perlu diatur oleh OS termasuk <STRONG>CPU Process, Memory, File-System, Mass-Storage, Cache,</STRONG> dan <STRONG>I/O System</STRONG>. <br>(Baca: <Strong>Chapter 1 Section 1.5 Buku/Slide Operating System Concepts Silberschatz</Strong>)
+                            	<STRONG>Resource Management</STRONG> berkaitan dengan tugas <STRONG>Operating System</STRONG> sebagai <Strong><i>resource manager</i></Strong>. Hal-hal yang perlu diatur oleh OS termasuk <STRONG>CPU Process, Memory, File-System, Mass-Storage, Cache,</STRONG> dan <STRONG>I/O System</STRONG>.
+                            	<br>(Baca lebih lanjut <Strong>Chapter 1 Section 1.5 Buku/Slide Operating System Concepts Silberschatz</Strong>)
                             </p>
                             <p>
-                            	<STRONG>Services</STRONG> dan <Strong>Functions</Strong> mengacu pada <i>environment</i> yang diberikan oleh OS untuk mengeksekusi program. Tentu saja setiap OS memberikan <STRONG>Services</STRONG> dan <Strong>Functions</Strong> yang berbeda-beda. Namun, secara umum <STRONG>Services</STRONG> dan <Strong>Functions</Strong> untuk tingkat <i>user</i> digolongkan menjadi <Strong>User Interface(UI), Program execution, I/O operations, File-system manipulation, Communications,</Strong> dan <Strong>Error detection</Strong>. Sedangkan untuk system sendiri, <STRONG>Services</STRONG> dan <Strong>Functions</Strong> diantaranya <Strong>Resource allocation, Logging,</Strong> dan <Strong>Protection and Security</Strong>. <br> (Baca: <Strong>Chapter 2 Section 2.1 Buku/Slide Operating System Concepts Silberschatz</Strong>)
+                            	<STRONG>Services</STRONG> dan <Strong>Functions</Strong> mengacu pada <i>environment</i> yang diberikan oleh OS untuk mengeksekusi program. Tentu saja setiap OS memberikan <STRONG>Services</STRONG> dan <Strong>Functions</Strong> yang berbeda-beda. Namun, secara umum <STRONG>Services</STRONG> dan <Strong>Functions</Strong> untuk tingkat <i>user</i> digolongkan menjadi <Strong>User Interface(UI), Program execution, I/O operations, File-system manipulation, Communications,</Strong> dan <Strong>Error detection</Strong>. Sedangkan untuk system sendiri, <STRONG>Services</STRONG> dan <Strong>Functions</Strong> diantaranya <Strong>Resource allocation, Logging,</Strong> dan <Strong>Protection and Security</Strong>. 
+                            	<br> (Baca lebih lanjut <Strong>Chapter 2 Section 2.1 Buku/Slide Operating System Concepts Silberschatz</Strong>)
                             </p>
                             <p>
                             	<STRONG>Interface</STRONG> bisa diartikan sebagai sarana pertukaran informasi antara <i>user</i> dan <i>system</i>. Interface yang sering ditemui dalam OS diantaranya <STRONG>Command Line Interpreter(CLI), Graphical User Interface(GUI,</STRONG> dan <STRONG>Touch-Screen Interface</STRONG>. Pilihan <STRONG>Interface</STRONG> sepenuhnya preferensi masing-masing <i>user</i>.
                             	<br>
-                            	(Baca: <Strong>Chapter 2 Section 2.2 Buku/Slide Operating System Concepts Silberschatz</Strong>)
+                            	(Baca lebih lanjut <Strong>Chapter 2 Section 2.2 Buku/Slide Operating System Concepts Silberschatz</Strong>)
                             </p>
                         </div>
                     </div>
@@ -189,7 +192,18 @@ path: "https://extra191.vlsm.org/contents/chapters-topics"
                     <div id="collapseNine" class="collapse" aria-labelledby="headingNine" data-parent="#accordionOne">
                         <div class="card-body">
                             <p>
-                                [TODO]
+                                Materi di bagian ini berkaitan dengan <strong>Main Memory</strong> dalam suatu komputer. <strong>Address</strong> berkaitan dengan lokasi spesifik pada memory yang digunakan dalam suatu proses kerja komputer. Suatu instruksi akan melibatkan proses menyimpan atau mengambil data dari memori dengan alamat(<i>address</i>) yang spesifik.
+                                <br>
+                                <strong>Binding</strong> mengacu pada <strong>Address Binding</strong>, yaitu proses <i>mapping</i> dari suatu <i>address space</i> ke <i>address space</i> yang lain. <i>Logical address</i> akan mengalami proses translasi yang dilakukan oleh <strong>Memory Management Unit</strong> yang akan menghasilkan <strong>physical address</strong> atau lokasi dari suatu data dalam RAM. 
+                                <br>
+                                <strong>Libraries</strong> mengacu pada <i>non-volatile resources</i> yang digunakan dalam program komputer. Dikenal pula istilah <strong>Dynamically linked libraries(DLLs),</strong> yaitu <i>system library</i> yang terhubung pada <i>user program</i> ketika program dijalankan. Beberapa OS hanya mendukung <i>static linking</i> di mana <i>system library</i> diperlakukan seperti <i>object</i> module yang lain dan dikombinasikan oleh <i>loader</i> ke dalam <i>binary program image</i>.
+                                <br>
+                                <strong>Shared Memory</strong> adalah <i>memory</i> yang bisa secara bersamaan diakses oleh beberapa program dengan tujuan memberikan komunikasi antar-program untuk menghidari duplikasi data yang <i>redundant</i>.
+                                <br>
+                                <strong>Pointer</strong> mengacu pada <i>programming language object</i> yang menyimpan alamat memory sebagai penunjuk lokasi data pada memori yang nantinya akan dipakai dalam suatu proses tertentu.
+                            </p>
+                            <p>
+                            	Lebih lanjut mengenai materi ini bisa kalian pelajari di <Strong>Chapter 9 Buku/Slide Operating System Concepts Silberschatz</Strong>
                             </p>
                         </div>
                     </div>
@@ -205,6 +219,7 @@ path: "https://extra191.vlsm.org/contents/chapters-topics"
                             <p>
                                 <strong>Virtual Memory</strong> melibatkan pemisahan <i>logical memory</i> dengan <i>physical memory</i>. Hal ini akan memungkinkan tersedianya <i>logical memory</i> yang ukurannya jauh lebih besar dari <i>physical memory</i> yang akan memudahkan programmer di mana programmer tidak perlu khawatir mengenai keterbatasan <i>physical memory</i> dan lebih fokus ke proses <i>developing</i>.
                             </p>
+                            <br>
                             <p>
                             	Lebih lanjut mengenai materi ini bisa kalian pelajari di <Strong>Chapter 10 Buku/Slide Operating System Concepts Silberschatz</Strong>
                             </p>
@@ -220,7 +235,14 @@ path: "https://extra191.vlsm.org/contents/chapters-topics"
                     <div id="collapseEleven" class="collapse" aria-labelledby="headingEleven" data-parent="#accordionOne">
                         <div class="card-body">
                             <p>
-                                [TODO]
+                                <strong>Process</strong> adalah suatu unit kerja dalam sistem komputasi modern. Ketika kalian menjalankan beberapa program dalam waktu bersamaan, ataupun ketika suatu <i>embedded system</i> menjalankan suatu program yang ditanamkan didalamnya, hal tersebut disebut sebagai suatu proses. Program di dalam komputer baru akan disebut sebagai proses apabila program tersebut dijalankan. Status dari aktivitas suatu proses direpresentasikan dalam bentuk <i>program counter</i>. Ketika suatu proses dieksekusi, proses tersebut mengganti <i>state</i>-nya.
+                            </p>
+                            <p>
+                            	<strong>Thread</strong> adalah suatu ukuran dasar dari penggunaan CPU yang terdiri dari <strong>thread ID, program counter (PC), register set,</strong> dan <strong>stack</strong>. Sistem modern hampir semuanya sudah mendukung <i>multithreading</i> yang bisa menjalankan lebih dari satu pekerjaan dalam waktu bersamaan. Keuntungan dari sistem <i>multithreading</i> mencakup <strong>Responsiveness, Resource sharing, Economy, </strong> dan <strong>Scalability</strong>.
+                            </p>
+                            <br>
+                            <p>
+                            	Lebih lanjut mengenai materi ini bisa kalian pelajari di <Strong>Chapter 3-4 Buku/Slide Operating System Concepts Silberschatz</Strong>
                             </p>
                         </div>
                     </div>
@@ -234,7 +256,13 @@ path: "https://extra191.vlsm.org/contents/chapters-topics"
                     <div id="collapseTwelve" class="collapse" aria-labelledby="headingTwelve" data-parent="#accordionOne">
                         <div class="card-body">
                             <p>
-                                [TODO]
+                                Sebuah proses yang kooperatif (<strong>cooperating process</strong>) adalah salah satu yang mempengaruhi dan/atau dipengaruhi oleh proses yang lain dalam sistem. <i>Cooperating process</i> bisa secara langsung berbagi <i>logical address space</i> atau berbagi data hanya dari <i>shared memory</i> atau <i>message passing</i>. <i>Concurrent access</i> pada <i>shared data</i> bisa menyebabkan inkonsistensi data yang disebut sebagai <strong>race condition</strong>, di mana hasil dari prosesnya tergantung dari urutan pengaksesan data dalam proses tersebut. Untuk mengatasi hal ini, maka diperlukan <strong>Synchronization</strong> untuk menjamin hasil yang didapatkan konsisten.
+                                <br>
+                            	(Baca lebih lanjut <Strong>Chapter 6 dan 7 Buku/Slide Operating System Concepts Silberschatz</Strong>)
+                            </p>
+                            <p>
+                            	<strong>Deadlock</strong> adalah keadaan dimana setiap <i>thread</i> dalam <i>distributed system</i> saling menunggu data/proses dari thread yang lain. Hal ini menyebabkan setiap <i>thread</i> berada dalam <i>waiting state</i> dan tidak ada proses yang berjalan. Hal ini bisa dimisalkan sebagai dua kereta yang berada dalam persimpangan. Kedua kereta tersebut akan berhenti dan tidak akan bergerak sampai salah satu kereta bergerak.
+                            	(Baca lebih lanjut <Strong>Chapter 8 Buku/Slide Operating System Concepts Silberschatz</Strong>)
                             </p>
                         </div>
                     </div>
@@ -265,7 +293,16 @@ path: "https://extra191.vlsm.org/contents/chapters-topics"
                     <div id="collapseFourteen" class="collapse" aria-labelledby="headingFourteen" data-parent="#accordionOne">
                         <div class="card-body">
                             <p>
-                                [TODO]
+                                Materi ini mengacu pada Mass-Storage Structure pada sistem komputer. <strong>Secondary storage</strong> pada komputer modern pada umumnya disediakan oleh <strong>hard disk drive (HDD)</strong> dan <strong>nonvolatile memory(NVM)</strong> semacam <strong>Solid-state disk(SSD)</strong>.
+                                <br>
+                                <strong>Firmware</strong> adalah suatu <i>software</i> yang secara permanen ditanam pada <i>hardware</i> komputer. <strong>Firmware</strong> diprogram secara permanen untuk melaksanakan suatu instruksi yang berkaitan dengan komunikasi dengan perangkat lain dan melakukan tugas dasar seperti <i>input/output</i>. <strong>BIOS, ACPI,</strong> dan <strong>UEFI</strong> merupakan contoh firmware pada perangkat komputer.
+                                <br>
+                                <strong>Bootloader</strong> adalah suatu program yang mengeload dan memulai tugas dan proses <i>booting</i> dalam sebuah OS atau sistem komputer. Contoh bootloader pada sistem komputer adalah <strong>BOOTMGT(Windows), LILO(Linux),</strong> dan <strong>GRUB</strong>.
+                                <br>
+                                <strong>Systemd</strong> adalah salah satu <i>fundamental building block</i> bagi OS Linux. <strong>Systemd</strong> menggantikan <strong>Init</strong> dan <strong>Upstart</strong> sebagai <strong>OS Initialization</strong> pada Linux, dimana <strong>Systemd</strong> dianggap lebih baik daripada pendahulunya. 
+                            </p>
+                            <p>
+                            	Lebih lanjut mengenai materi ini bisa kalian pelajari di <Strong>Chapter 5 Buku/Slide Operating System Concepts Silberschatz dan <a href="https://wiki.debian.org/systemd">Systemd Introduction</a></Strong>
                             </p>
                         </div>
                     </div>
@@ -279,7 +316,10 @@ path: "https://extra191.vlsm.org/contents/chapters-topics"
                     <div id="collapseFifteen" class="collapse" aria-labelledby="headingFifteen" data-parent="#accordionOne">
                         <div class="card-body">
                             <p>
-                                [TODO]
+                                Materi ini berkaitan dengan <strong>I/O System</strong> pada komputer, di mana salah satu tugas utama dari komputer adalah <strong>input/output</strong>. <strong>I/O Device</strong> yang digunakan dalam sistem komputer sangatlah beragam dan kontrol dari setiap perangkat tersebut merupakan salah satu fokus utama dalam desain OS. Beragam metode dibutuhkan untuk mengontrol setiap perangkat tersebut agar bekerja sesuai dengan keinginan pengguna. Masing-masing <strong>I/O Device</strong> berkomunikasi dengan mesin/sistem komputer melalui <i>connection point</i>(<strong>port</strong>) dan antar-<i>device</i> saling bertukar informasi dan data melalui sebuah <strong>bus</strong>(contohnya <strong>PCI Express</strong>). Setiap detail cara kerja <strong>Device</strong> ini di-<i>encapsulate</i> oleh <strong>Device Driver</strong>. Komunikasi antar-<i>device</i> ini kemudian dimanfaatkan dalam <strong>I/O Programming</strong>, yaitu merupakan suatu proses penulisan atau pembacaan suatu file dalam <i>subsystem</i> komputer.
+                            </p>
+                            <p>
+                            	Lebih lanjut mengenai materi ini bisa kalian pelajari di <Strong>Chapter 12 Buku/Slide Operating System Concepts Silberschatz</Strong>
                             </p>
                         </div>
                     </div>
