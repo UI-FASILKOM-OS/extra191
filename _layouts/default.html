@@ -42,6 +42,14 @@
     {{ content }}
   </section>
 
+  {% if page.comments %}
+  <section class="content-section bg-alternative">
+    <div class="container rounded-lg shadow-lg p-4">
+      {% include comment.html %}
+    </div>
+  </section>
+  {% endif %}
+  
   {% include footer.html %}
 
   <!-- Scroll to Top Button-->
